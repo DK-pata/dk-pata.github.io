@@ -117,7 +117,7 @@ body {
     font-size: 18px !important;
     line-height: 1.2em !important;
     padding: 0 1em !important;
-    /*background-color:#fff8dc !important;*/
+    background-color:#fff8dc !important;
     color: #000 !important;                            
     max-width:900px !important;           /* If your text hits the side of the browser, fuck off forever. You ever see a book like that? Yes? What a shitty book. */
     /* queries cc */
@@ -134,11 +134,14 @@ h1,h2,h3,b,strong {
 }
 /* post title */
 .article-meta h1 {
-    text-transform: capitalize; /* Uppercase first letter in every word */
-  color: #4455aa; /* Set text color */
-  background: #e2e6f6; /* Title background color */
-  display: inline-block; /* Only the title, not entire line */
-  padding: 0.2em 0.5em; /* Optional: pad for some spacing */
+ text-transform: capitalize; /* Uppercase first letter in every word */
+ color: #0000ff;  /*Set text color */
+  /*background: #e2e6f6;  Title background color */
+   display: inline-block;  /*Only the title, not entire line */
+ padding-bottom: 0.3em;  /* Optional: pad for some spacing */
+   font-family: "DotGothic16", serif;
+  border-bottom: 1px solid  blue;
+  font-size: 1em  !important;
 }
 .light-text {
     font-weight: 300 !important;  /* Light */
