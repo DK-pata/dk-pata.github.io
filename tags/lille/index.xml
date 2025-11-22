@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lille on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/lille/</link>
+    <link>http://localhost:1313/tags/lille/</link>
     <description>Recent content in Lille on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/lille/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lille/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blanche Endive / GREGOIRE MOTTE Espace Le Carré LILLE</title>
-      <link>https://dk-pata.github.io/docs/2019_blanche_endive/</link>
+      <link>http://localhost:1313/docs/2019_blanche_endive/</link>
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/2019_blanche_endive/</guid>
+      <guid>http://localhost:1313/docs/2019_blanche_endive/</guid>
       <description>&lt;div class=&#34;two-columns-css&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;blancheEndive.full.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt;&lt;a href=&#34;https://www.instagram.com/gregoiremotte/&#34;&gt;https://www.instagram.com/gregoiremotte/&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;BLANCHE ENDIVE / GRÉGOIRE MOTTE à L&amp;rsquo;Espace Le Carré 30 rue des Archives 59000 Lille France 15.11.19 — 12.01.20 ( vernissage&#xA;14.11.19 19.00 performance Dialogist-Kantor )&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;endive.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;span class=&#34;w3-text-indigo w3-small&#34;&gt;&lt;a href=&#34;http://www.50degresnord.net/wts10-exposition-labellisee-gregoire-motte&#34;&gt;UN COMMISSARIAT de Damien Airault&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
   </channel>

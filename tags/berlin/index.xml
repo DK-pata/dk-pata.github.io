@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berlin on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/berlin/</link>
+    <link>http://localhost:1313/tags/berlin/</link>
     <description>Recent content in Berlin on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arme Sammler</title>
-      <link>https://dk-pata.github.io/docs/2024_arme_sammler/</link>
+      <link>http://localhost:1313/docs/2024_arme_sammler/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/2024_arme_sammler/</guid>
+      <guid>http://localhost:1313/docs/2024_arme_sammler/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;ulla_DK_vSala_berlin_2024.jpg&#34; alt=&#34;Arme Sammler&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt;Arme Sammler 2024 Berlin&lt;/sup&gt;&#xA;&lt;em&gt;Arme Sammler&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;20-01 / 17-02 2024&lt;/p&gt;&#xA;&lt;p&gt;Galerie Vincenz Sala&lt;br&gt;&#xA;Sigmaringer Str. 23&lt;br&gt;&#xA;10713 Berlin&lt;br&gt;&#xA;&lt;sub&gt;&lt;a href=&#34;https://www.vsala.com&#34;&gt;https://www.vsala.com&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;&#xA;&lt;p&gt;The show presents the collections of Peter Funken, Ulla Hahn and Andreas A Koch. Collections that have been compiled in part through acquisitions, but above all through exchanges and gifts across networks of personal relations and encounters as they grow over time. Thus, all the works on display are linked to stories and experiences, they all tell of affection and friendship, memories and joy. This is where the real value of these collections of poor collectors lies; but see for yourself &amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

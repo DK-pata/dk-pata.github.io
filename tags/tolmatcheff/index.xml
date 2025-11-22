@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tolmatcheff on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/tolmatcheff/</link>
+    <link>http://localhost:1313/tags/tolmatcheff/</link>
     <description>Recent content in Tolmatcheff on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/tolmatcheff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tolmatcheff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ganse Gans Ganze 2022</title>
-      <link>https://dk-pata.github.io/docs/2022-ganse-gans-ganze/</link>
+      <link>http://localhost:1313/docs/2022-ganse-gans-ganze/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/2022-ganse-gans-ganze/</guid>
+      <guid>http://localhost:1313/docs/2022-ganse-gans-ganze/</guid>
       <description>&lt;div class=&#34;two-columns-css&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;01_rattendael2022_typo.jpg&#34; alt=&#34;rattendael 2022&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt;Rattendael 2022 / typo&lt;/sup&gt;&lt;br&gt;&#xA;post-pistologie / patacycliste rendez-vous&#xA;zondag / dim. 7/8/2022&#xA;Rendez-vous à partir de 14h au jardin du &lt;a href=&#34;https://bruxellessecrete.com/roseraie-chateau-coloma/&#34;&gt;château Coloma&lt;/a&gt; (Sint-Sebastiaansstraat 19, 1600 Sint-Pieters-Leeuw)&#xA;et promenade apd 16h aan &amp;ldquo;Art À Rattendael&amp;rdquo;  75bis (côté pair) Mollemstraat Rattendael Sint-Pieters-Leeuw!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ganze2022.jpg&#34; alt=&#34;ganze2022&#34;&gt;&lt;br&gt;&#xA;&lt;sub&gt; Ganze Allee perf. by DK in ganze feet at Frederic T. Rattendael 2022&lt;/sub&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ganse2rose.jpg&#34; alt=&#34;ganse2&#34; title=&#34;ganse2&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
