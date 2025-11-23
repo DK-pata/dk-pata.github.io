@@ -18,7 +18,7 @@ een internationaal event voor publieke acties 21.09.2025
 With:
 Topp & Dubio, ieke trinks, Yvo van der Vat, Heinrich Obst, LL, Dialogist-Kantor, Johannes Christopher Gérard, Frans van Lent, Nico Parlevliet, Yvette Teeuwen, Marita Bullmann, Kees Koomen, Ellen Rodenberg, selina bonelli, Sun Yoo, Thomas Reul, Miriam Lichtenauer, Maarten Schepers, Pum van de Koppel, Hee Sub Han, Kimvi (simultaneously in Suzhou, Jiangsu, China), and Martine Viale (simultaneously in Port Bou, Catalunya).
 
-One-take recording of the full 60-minutes performance.  
+Here is a one-take recording of the full 60-minutes performance.  
 4K-video with sound 
 
 ![](https://222lodge.nl/site/wp-content/uploads/photo-gallery/P1003211.jpg) 
