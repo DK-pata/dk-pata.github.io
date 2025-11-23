@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piste on PATACYCLISTE.ORG</title>
-    <link>http://localhost:1313/tags/piste/</link>
+    <link>https://dk-pata.github.io/tags/piste/</link>
     <description>Recent content in Piste on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 May 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/piste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dk-pata.github.io/tags/piste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;art du lendemain 2009</title>
-      <link>http://localhost:1313/docs/2009_l_art-du-lendemain/</link>
+      <link>https://dk-pata.github.io/docs/2009_l_art-du-lendemain/</link>
       <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/2009_l_art-du-lendemain/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2009_Macs_AFF.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;figcaption&gt;L&#39;Art du Lendemain / Dialogist-Kantor 2009 Affiche&lt;/figcaption&gt;&#xD;&#xA;&lt;p&gt;L&amp;rsquo;art du Lendemain&#xA;cabinet d&amp;rsquo;amateur N° 3&#xA;mac&amp;rsquo;s musée d&amp;rsquo; art contemporain&#xA;Grand-Hornu&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2009_pisteDK.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;figcaption&gt;L&#39;Art du Lendemain / Dialogist-Kantor 2009&lt;/figcaption&gt;  &#xD;&#xA;&lt;p&gt;&lt;strong&gt;15 M X 1.20 M&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://dk-pata.github.io/docs/2009_l_art-du-lendemain/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/2009_Macs_AFF.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;figcaption&gt;L&#39;Art du Lendemain / Dialogist-Kantor 2009 Affiche&lt;/figcaption&gt;&#xD;&#xA;&lt;p&gt;L&amp;rsquo;art du Lendemain&#xA;cabinet d&amp;rsquo;amateur N° 3&#xA;mac&amp;rsquo;s musée d&amp;rsquo; art contemporain&#xA;Grand-Hornu&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/2009_pisteDK.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;figcaption&gt;L&#39;Art du Lendemain / Dialogist-Kantor 2009&lt;/figcaption&gt;  &#xD;&#xA;&lt;p&gt;&lt;strong&gt;15 M X 1.20 M&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

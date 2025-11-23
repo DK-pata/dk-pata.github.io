@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pochoir on PATACYCLISTE.ORG</title>
-    <link>http://localhost:1313/tags/pochoir/</link>
+    <link>https://dk-pata.github.io/tags/pochoir/</link>
     <description>Recent content in Pochoir on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Nov 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pochoir/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dk-pata.github.io/tags/pochoir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaiser 2010 </title>
-      <link>http://localhost:1313/docs/2010_kaiser/</link>
+      <link>https://dk-pata.github.io/docs/2010_kaiser/</link>
       <pubDate>Wed, 17 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/2010_kaiser/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2010_prince_et_princesse.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt;KAISER   2010 (Ici Princes et Princesses)&lt;/sup&gt;&lt;br&gt;&#xA;24X40X9 cm Stencil-like cuted beer cans cardboard 27ex.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;ldquo;Ici Prince et Princesse tout le monde montre ses fesses&amp;rdquo;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le multiple édité en 27 exemplaires a été présente  durant l&amp;rsquo;exposition &lt;a href=&#34;http://waterschoenen.blogspot.com/2012/06/kunstvrienden-groeten-bernd-lohaus-in.html&#34;&gt;FRECHER&lt;/a&gt;, Loods 12, Wetteren, BE en 2012  et dans l&amp;rsquo;expo&#xA;Private Choices 09.11.2017 &amp;gt; 27.05.2018 à la Centrale &lt;em&gt;in&lt;/em&gt; &lt;a href=&#34;https://www.centrale.brussels/expos/private-choices/&#34;&gt;collection R.Patt&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://dk-pata.github.io/docs/2010_kaiser/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/2010_prince_et_princesse.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt;KAISER   2010 (Ici Princes et Princesses)&lt;/sup&gt;&lt;br&gt;&#xA;24X40X9 cm Stencil-like cuted beer cans cardboard 27ex.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;ldquo;Ici Prince et Princesse tout le monde montre ses fesses&amp;rdquo;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le multiple édité en 27 exemplaires a été présente  durant l&amp;rsquo;exposition &lt;a href=&#34;http://waterschoenen.blogspot.com/2012/06/kunstvrienden-groeten-bernd-lohaus-in.html&#34;&gt;FRECHER&lt;/a&gt;, Loods 12, Wetteren, BE en 2012  et dans l&amp;rsquo;expo&#xA;Private Choices 09.11.2017 &amp;gt; 27.05.2018 à la Centrale &lt;em&gt;in&lt;/em&gt; &lt;a href=&#34;https://www.centrale.brussels/expos/private-choices/&#34;&gt;collection R.Patt&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

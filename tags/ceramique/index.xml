@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ceramique on PATACYCLISTE.ORG</title>
-    <link>http://localhost:1313/tags/ceramique/</link>
+    <link>https://dk-pata.github.io/tags/ceramique/</link>
     <description>Recent content in Ceramique on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ceramique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dk-pata.github.io/tags/ceramique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>école d&#39;art d&#39;uccle 2022</title>
-      <link>http://localhost:1313/docs/2022_ecole_d_art_uccle/</link>
+      <link>https://dk-pata.github.io/docs/2022_ecole_d_art_uccle/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/2022_ecole_d_art_uccle/</guid>
+      <guid>https://dk-pata.github.io/docs/2022_ecole_d_art_uccle/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;ceramique2022.jpg&#34; alt=&#34;ceramique2022&#34; title=&#34;ceramique2022&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dernières pièces visibles les 4 et 5 juin 2022&lt;br&gt;&#xA;école d&amp;rsquo;art d&amp;rsquo;Uccle / 14-19h&lt;/p&gt;</description>
     </item>
   </channel>

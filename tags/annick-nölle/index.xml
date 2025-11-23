@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Annick Nölle on PATACYCLISTE.ORG</title>
-    <link>http://localhost:1313/tags/annick-n%C3%B6lle/</link>
+    <link>https://dk-pata.github.io/tags/annick-n%C3%B6lle/</link>
     <description>Recent content in Annick Nölle on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/annick-n%C3%B6lle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dk-pata.github.io/tags/annick-n%C3%B6lle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alles hat einen Anfang nur die Wurst hat zwei (2018) </title>
-      <link>http://localhost:1313/docs/2018_p37_alles_hat/</link>
+      <link>https://dk-pata.github.io/docs/2018_p37_alles_hat/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/2018_p37_alles_hat/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/GalerieP37/&#34;&gt;Galerie P37&lt;/a&gt; / rue pierreuse 37 Liège&#xA;Annick Nölle / Dialogist-Kantor&#xA;&lt;strong&gt;Finissage:&lt;/strong&gt; dimanche 30 sept. 2018 11h-15h&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/IMG_8594_Alles_hat_2018.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sub&gt; Alles Hat ..2018&lt;/sub&gt;&lt;/p&gt;</description>
+      <guid>https://dk-pata.github.io/docs/2018_p37_alles_hat/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/GalerieP37/&#34;&gt;Galerie P37&lt;/a&gt; / rue pierreuse 37 Liège&#xA;Annick Nölle / Dialogist-Kantor&#xA;&lt;strong&gt;Finissage:&lt;/strong&gt; dimanche 30 sept. 2018 11h-15h&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/IMG_8594_Alles_hat_2018.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sub&gt; Alles Hat ..2018&lt;/sub&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

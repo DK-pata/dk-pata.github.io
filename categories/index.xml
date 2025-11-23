@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PATACYCLISTE.ORG</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://dk-pata.github.io/categories/</link>
     <description>Recent content in Categories on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dk-pata.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DK_WORK</title>
-      <link>http://localhost:1313/categories/dk_work/</link>
+      <link>https://dk-pata.github.io/categories/dk_work/</link>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/dk_work/</guid>
+      <guid>https://dk-pata.github.io/categories/dk_work/</guid>
       <description></description>
     </item>
     <item>
       <title>DK_ORG</title>
-      <link>http://localhost:1313/categories/dk_org/</link>
+      <link>https://dk-pata.github.io/categories/dk_org/</link>
       <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/dk_org/</guid>
+      <guid>https://dk-pata.github.io/categories/dk_org/</guid>
       <description></description>
     </item>
   </channel>
