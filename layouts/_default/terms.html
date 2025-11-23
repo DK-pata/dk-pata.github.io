@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<h1>{{ .Title }}</h1>
+<ul class="terms">
+  {{ $taxonomyName := .Data.Plural }}
+  {{ range .Pages.ByTitle }}
+  {{ $termName := .Title | lower }}
+  {{ $pageCount := 0 }}
+  {{ range $.Site.RegularPages }}
+    {{ $terms := index .Params $taxonomyName }}
+    {{ if $terms }}
+      {{ range $terms }}
+        {{ if eq (. | lower) $termName }}
+          {{ $pageCount = add $pageCount 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ $pageCount }})
+  </li>
+  {{ end }}
+</ul>
+{{ partial "footer.html" . }}

@@ -1,0 +1,10 @@
+{{ range .Page.Resources.ByType "image" }}
+  {{ $caption := replace .Name (path.Ext .Name) "" }}
+  {{ $caption = replace $caption "-" " " }}
+  {{ $caption = replace $caption "_" " " }}
+  {{ $caption = title $caption }}
+  <figure class="bundle-image">
+    <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy">
+    <figcaption>{{ $caption }}</figcaption>
+  </figure>
+{{ end }}

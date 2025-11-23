@@ -1,0 +1,15 @@
+Structure du dossier
+Le num‚ro de s‚rie du volume est 6204-B8A8
+C:.
+|   404.html
+|   list.html
+|   single.html
+|   snapshot.txt
+|   terms.html
+|   
+\---_partials
+        footer.html
+        foot_custom.html
+        header.html
+        head_custom.html
+        
