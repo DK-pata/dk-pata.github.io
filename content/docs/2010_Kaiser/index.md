@@ -12,7 +12,7 @@ tags:
 
 ![](/img/2010_prince_et_princesse.jpg)  
 <sup>KAISER   2010 (Ici Princes et Princesses)</sup>  
-24X40X9 cm Stencil-like cuted beer cans cardboard 27ex.  
+24X40X9 cm Stencil cuted beer cans cardboard 27ex.  
 
 <code>"Ici Prince et Princesse tout le monde montre ses fesses"</code>
 
