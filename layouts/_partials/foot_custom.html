@@ -1,0 +1,114 @@
+<!-- Existing KaTeX & utils scripts -->
+<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/katex.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/render-katex.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script> -->
+
+<!-- CC 🔍 Add your search script below -->
+<!-- Lunr.js -->
+
+<script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+<script>
+(async function() {
+  try {
+    const response = await fetch('{{ "index.json" | relURL }}');
+    const data = await response.json();
+
+    const idx = lunr(function () {
+      // Désactiver les stop words pour indexer TOUS les mots
+      this.pipeline.remove(lunr.stopWordFilter);
+      
+      this.field('title');
+      this.field('summary');
+      this.field('content');
+      this.ref('url');
+      data.forEach(doc => this.add(doc));
+    });
+
+    const searchBox = document.getElementById('search-box');
+    const resultsDiv = document.getElementById('search-results');
+    if (!searchBox) return;
+
+    function highlight(text, words) {
+      const escapedWords = words.map(w => w.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&'));
+      const regex = new RegExp(`(${escapedWords.join('|')})`, 'gi');
+      return text.replace(regex, '<mark>$1</mark>');
+    }
+
+    function getSnippet(text, words, radius = 75) {
+      const lowerText = text.toLowerCase();
+      let index = -1;
+      for (const word of words) {
+        const i = lowerText.indexOf(word.toLowerCase());
+        if (i >= 0) { index = i; break; }
+      }
+      if (index < 0) return text.slice(0, 150) + (text.length > 150 ? "…" : "");
+      const start = Math.max(0, index - radius);
+      const end = Math.min(text.length, index + radius);
+      let snippet = text.slice(start, end);
+      if (start > 0) snippet = "…" + snippet;
+      if (end < text.length) snippet = snippet + "…";
+      return snippet;
+    }
+
+    function getMatchedTerms(result) {
+      const terms = new Set();
+      Object.keys(result.matchData.metadata).forEach(term => {
+        terms.add(term);
+      });
+      return Array.from(terms);
+    }
+
+    let debounceTimer;
+
+    searchBox.addEventListener('input', function() {
+      const query = this.value.trim();
+      clearTimeout(debounceTimer);
+      
+      debounceTimer = setTimeout(() => {
+        resultsDiv.innerHTML = '';
+        if (query.length < 3) return;
+
+        const results = idx.search(query + '~1');
+        
+        if (results.length === 0) {
+          resultsDiv.innerHTML = '<p>No results found</p>';
+          return;
+        }
+
+        results.forEach(result => {
+          const item = data.find(d => d.url === result.ref);
+          const matchedTerms = getMatchedTerms(result);
+
+          const link = document.createElement('a');
+          link.href = item.url;
+          link.style.display = 'block';
+          link.style.marginBottom = '4px';
+          link.style.textDecoration = 'none';
+          link.style.color = '#007acc';
+          link.innerHTML = highlight(item.title, matchedTerms);
+
+          const excerpt = document.createElement('div');
+          excerpt.style.fontSize = '0.9em';
+          excerpt.style.color = '#555';
+          const snippetText = item.summary 
+            ? getSnippet(item.summary, matchedTerms)
+            : getSnippet(item.content, matchedTerms);
+          excerpt.innerHTML = highlight(snippetText, matchedTerms);
+
+          const wrapper = document.createElement('div');
+          wrapper.appendChild(link);
+          wrapper.appendChild(excerpt);
+          resultsDiv.appendChild(wrapper);
+        });
+      }, 300);
+    });
+
+  } catch (err) {
+    console.error('Search index load failed:', err);
+  }
+})();
+</script>
+

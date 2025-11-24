@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+<main class="two-columns-container">
+    
+  <!-- COLONNE 1 : CONTENT -->
+  <article class="content-column">
+    <div class="article-meta">
+      <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+      
+      {{ with .Params.categories }}
+      <p class="meta">
+        Categories:
+        {{ range . }}
+          <a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </p>
+      {{ end }}
+      
+      {{ with .Params.tags }}
+      <p class="meta">
+        Tags:
+        {{ range . }}
+          <a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </p>
+      {{ end }}
+    </div>
+    
+    {{ .Content }}
+  </article>
+
+  <!-- COLONNE 2 : BUNDLE IMAGES -->
+  <aside class="images-column">
+    {{ partial "bundle-images.html" . }}
+  </aside>
+    
+</main>
+
+{{ partial "footer.html" . }}

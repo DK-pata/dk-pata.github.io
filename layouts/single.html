@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+<!-- {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }} -->
+
+<!-- CC tags and cats in posts -->
+{{ with .Params.categories }}
+  <p class="meta">
+    Categories:
+    {{ range . }}
+      <a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+
+  {{ with .Params.tags }}
+  <p class="meta">
+    Tags:
+    {{ range . }}
+      <a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+</div>
+
+<main>
+{{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,59 @@
+baseURL = "https://dk-pata.github.io/"
+languageCode = "en-us"
+title = "PATACYCLISTE.ORG"
+theme = "xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[permalinks]
+  note = "/note/:year/:month/:day/:slug/"
+  post = "/post/:year/:month/:day/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2
+  [[menu.main]]
+    name = "Categories"
+    url = "categories/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 4
+  [[menu.main]]
+    name = "Cronologi"
+    url = "cronologi/"
+
+[params]
+  description = "Dialogist-Kantor Archives 1992-2025"
+  footer ="<sup>PATACYCLISTE.ORG / &copy; Dialogist-Kantor 2025 </br>Durant les fêtes les confitures ne sont pas exposées</sup>"
+  customCSS = ["css/custom.css"]  # ← add this line to load your new minimalist style
+  favicon = "favicon.ico"
+[markup]
+  [markup.highlight]
+    codeFences = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [["\\[", "\\]"], ["$$", "$$"]]
+        inline = [["\\(", "\\)"]]
+
+# cfr SEARCH CC 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
