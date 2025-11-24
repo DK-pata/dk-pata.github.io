@@ -84,9 +84,9 @@
 /* Force tighter spacing between menu and search */
 .site-nav .menu {
   margin-top: 0 !important;
-  padding-top: 0 !important;
+  padding-top: 0.1em !important;
   margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+  padding-bottom: 0.1em !important;
 }
 
 .search-container {
@@ -154,7 +154,12 @@ code {
 .article-meta, .menu a {
   background: none;
 }
-footer sup, header {
+footer sup {
+  font-family: "DotGothic16", serif !important;
+  font-size: 1em !important;
+  color: #696969;
+} 
+header {
   font-family: "DotGothic16", serif !important;
   font-size: 1.3em !important;
 }

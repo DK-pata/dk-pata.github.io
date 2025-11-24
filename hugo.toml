@@ -17,7 +17,7 @@ category = "categories"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Home |"
     url = ""
     weight = 1
   # [[menu.main]]
@@ -25,11 +25,11 @@ category = "categories"
   #   url = "about/"
   #   weight = 2
   [[menu.main]]
-    name = "Categories"
+    name = "Categories |"
     url = "categories/"
     weight = 2
   [[menu.main]]
-    name = "Tags"
+    name = "Tags |"
     url = "tags/"
     weight = 3
   [[menu.main]]
