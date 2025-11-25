@@ -74,7 +74,7 @@
 .site-description {
   font-size: 0.9em !important;
   margin-top: 0 !important;
-  margin-bottom: 0.3rem !important; /* Remove space below description */
+  margin-bottom: 0.4rem !important; /* Remove space below description */
 }
 
 .site-nav {
