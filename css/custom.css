@@ -46,7 +46,7 @@
 
 /* Highlighting */
 #search-results mark {
-  background-color: greenyellow !important;
+  background-color: #bdb76b !important;
   color: #000 !important;
   padding: 0 2px !important;
 }
@@ -66,8 +66,8 @@
 
 .site-title a {
   margin-bottom: 0.2rem !important; /* Reduce space below title */
-  background-image: linear-gradient(90deg, #90d5ff  0%, #fff8dc 80%);
-  font-family: "DotGothic16", sans-serif;
+  
+  /*font-family: "DotGothic16", sans-serif;*/
   font-size:1em;
 }
 
@@ -164,8 +164,10 @@ footer sup {
   color: #696969;
 } 
 header {
-  font-family: "DotGothic16", serif !important;
+  font-family: "DotGothic16", sans-serif !important;
+  padding: 1em;
   font-size: 1.2em !important;
+  background-image: linear-gradient(90deg, #90d5ff  0%, #fff8dc 80%);
 }
 .meta { 
   padding-left: 0.5em;
