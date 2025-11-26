@@ -105,7 +105,7 @@ header.site-header hr {
   margin-bottom: 1rem !important;
   border: none !important;
   border-top: 2px solid #ccc !important;  Plain solid line with custom color */
-  display:none ;
+  
 }
 .menu li a {
   padding: 0 0.5rem 0 0 !important; /* small right padding only */
@@ -159,8 +159,8 @@ code {
   background: none;
 }
 footer sup {
-  font-family: "DotGothic16", serif !important;
-  font-size: 1em !important;
+  font-family: "DotGothic16", sans-serif !important;
+  font-size: 0.em !important;
   color: #696969;
 } 
 header {
@@ -191,7 +191,7 @@ header {
   font-size: 0.9rem;
   margin-top: 0.5rem;
   /*font-family: 'FluxischElse', sans-serif!important;*/
-  font-family: Georgia, serif!important;
+  font-family: Georgia, serif !important;
   font-weight: 300; /* Light */
 }
 
@@ -224,12 +224,17 @@ header {
 .two-columns-container img {
   color: #aaa;
   font-family: Arial, sans-serif;
-  font-size: 0.7em;  
+  font-size: 0.7em; 
+  padding: 1em 0 0.3em 0 !important;
 }
+.two-columns-css br, .two-columns-css sup { 
+  display:none}
+
 .read-more {
   color: blue;
   font-family: Arial, sans-serif;
-  font-size: 0.7em;  
+  font-size: 0.7em; 
+  
 }
 /* Responsive */
 @media (max-width: 768px) {
