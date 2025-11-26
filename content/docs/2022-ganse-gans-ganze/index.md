@@ -14,7 +14,7 @@ tags:
 
 <div class="two-columns-css">
 
-![rattendael 2022](01_rattendael2022_typo.jpg)  
+![](01_rattendael2022_typo.jpg)  
 <sup>Rattendael 2022 / typo</sup>  
  post-pistologie / patacycliste rendez-vous 
 zondag / dim. 7/8/2022 

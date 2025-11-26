@@ -49,14 +49,14 @@
               <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="post-image">
             {{ end }}
           {{ end }}
-          <!-- <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> -->
+          
           <!-- Extrait de texte (environ 3 lignes) -->
           <div class="post-excerpt">
             {{ .Summary | truncate 200 }}
           </div>
           
           <a href="{{ .Permalink }}" class="read-more">read  '{{ .Title }}' →</a>
-          <br><br>
+          <!-- <br><br> -->
 
         </article>
         {{ $count = add $count 1 }}

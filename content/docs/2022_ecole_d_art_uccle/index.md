@@ -10,7 +10,7 @@ tags:
   - event
 ---
 
-![ceramique2022](ceramique2022.jpg "ceramique2022")  
+![](ceramique2022.jpg "ceramique2022")  
 
 Dernières pièces visibles les 4 et 5 juin 2022  
 école d'art d'Uccle / 14-19h

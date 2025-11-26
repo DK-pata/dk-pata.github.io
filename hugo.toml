@@ -38,7 +38,7 @@ category = "categories"
 
 [params]
   description = "Dialogist-Kantor Archives 1992-2025"
-  footer ="<sup>PATACYCLISTE.ORG / &copy; Dialogist-Kantor 2025 </br>Durant les fêtes les confitures ne sont pas exposées</sup>"
+  footer ="<sup> <b>PATACYCLISTE.ORG / &copy; Dialogist-Kantor 2025</b> ...    Durant les fêtes les confitures ne sont pas exposées</sup>"
   customCSS = ["css/custom.css"]  # ← add this line to load your new minimalist style
   favicon = "favicon.ico"
 [markup]

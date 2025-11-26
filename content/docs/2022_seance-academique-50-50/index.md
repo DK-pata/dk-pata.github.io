@@ -9,9 +9,9 @@ tags:
   - Laetitia
 ---
 
-[![Seance_5050_Pelgrims](Seance_5050_Pelgrims.jpg)](Seance_5050_Pelgrims.jpg)  
+![](Seance_5050_Pelgrims.jpg)  
 
-[![Fifty50FlyerMPelg-785x1024](Fifty50FlyerMPelg-785x1024.jpg "Fifty50FlyerMPelg-785x1024")](Fifty50FlyerMPelg-785x1024.jpg)  
-<sub>**Séance Académique 50/50 Maison Pelgrims / 11 febr. 2022 from 14 – 18 hrs**  
+![](Fifty50FlyerMPelg-785x1024.jpg)  
+<sub>Séance Académique 50/50 Maison Pelgrims / 11 febr. 2022 from 14 – 18 hrs</sub>  
 
 

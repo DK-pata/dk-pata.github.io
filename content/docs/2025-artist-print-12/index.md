@@ -11,15 +11,16 @@ tags:
  
 <div class="two-columns-css"> 
 
-![](artistsprint_XII.jpg)  
-<sup> Edition Pistologie Serie 1994-1999</sup>  
+![](artistsprint_25.jpg)  
+  
 
 ARTISTS PRINT XII  
 Foire indépendante du livre d'artiste et du multiple  
 01>02.02.25 / 14-18 / LA MAISON DES ARTS DE SCHAERBEEK  
 VERNISSAGE ve. 31.01.25 / 17-21  
 
-![](artistsprint_25.jpg) 
+![](artistsprint_XII.jpg) 
+<sup> Edition Pistologie Serie 1994-1999</sup>
 
 LISTE ARTISTS PRINT XII
 
