@@ -160,12 +160,13 @@ code {
 }
 footer sup {
   font-family: "DotGothic16", sans-serif !important;
-  font-size: 0.em !important;
+  font-size: 0.8em !important;
   color: #696969;
 } 
 header {
   font-family: "DotGothic16", sans-serif !important;
   padding: 1em;
+  margin-bottom: 0.8em;
   font-size: 1.2em !important;
   background-image: linear-gradient(90deg, #90d5ff  0%, #fff8dc 80%);
 }
