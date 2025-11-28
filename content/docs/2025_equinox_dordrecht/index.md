@@ -5,7 +5,7 @@ tags:
     - 2025
     - perf
     - Dordrecht
-    - Z_news
+    - news
 categories:
     - DK_WORK
 ---

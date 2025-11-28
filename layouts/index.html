@@ -8,7 +8,7 @@
     <div class="content-column">
       <!-- <h2>News</h2> -->
       {{ $count := 0 }}
-      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "Z_news") }}
+      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "news") }}
         {{ if lt $count 5 }}
         <article class="post-preview">
           <!-- <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> -->

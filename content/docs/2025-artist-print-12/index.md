@@ -5,7 +5,7 @@ categories:
   - DK_WORK
 tags:
   - 2025
-  - event
+  - news
   - Artist Print
 ---
  
