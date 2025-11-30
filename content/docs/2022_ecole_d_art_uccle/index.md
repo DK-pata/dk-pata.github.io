@@ -7,7 +7,7 @@ tags:
   - 2022
   - expo
   - ceramique
-  - event
+  - zen
 ---
 
 ![](ceramique2022.jpg "ceramique2022")  
