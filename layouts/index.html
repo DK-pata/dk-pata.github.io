@@ -38,7 +38,7 @@
     <div class="images-column">
       <!-- <h2>Events</h2> -->
       {{ $count := 0 }}
-      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "zen") }}
+      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "updt.") }}
         {{ if lt $count 5 }}
         <article class="post-preview">
           <!-- Première image du post -->
