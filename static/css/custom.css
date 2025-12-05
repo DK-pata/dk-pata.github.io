@@ -1,4 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
 /* Custom search*/
 /* --- Lightweight search results box --- */
 #search-results {
@@ -113,10 +114,8 @@ header.site-header hr {
 }
 
 body {
-    margin: 30px auto !important;  /* Center it */
-    /*font-family: 'FluxischElseLight', sans-serif !important;*/
-    /*font-family: 'FluxischElse', sans-serif!important;*/
-    font-family: serif!important;
+    margin: 30px auto !important;  /* Center it */    
+    font-family: 'FluxischElse', sans-serif!important;   
     font-weight: 300 !important; /* Regular */
     font-size: 18px !important;
     line-height: 1.2em !important;
@@ -164,13 +163,13 @@ code {
   background: none;
 }
 footer sup {
-  font-family: serif !important;
+  font-family: 'FluxischElseLight', sans-serif !important;
   font-size: 0.8em !important;
   color: #696969;
 
 } 
 header {
-  font-family: serif !important;
+  font-family: 'FluxischElseLight', sans-serif !important;
   padding: 0.5em;
   margin-bottom: 0.8em;
   font-size: 1.1em !important;
