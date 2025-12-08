@@ -115,7 +115,7 @@ header.site-header hr {
 
 body {
     margin: 30px auto !important;  /* Center it */    
-    font-family: 'FluxischElse', sans-serif!important;   
+    font-family: 'FluxischElse', sans-serif !important;   
     font-weight: 300 !important; /* Regular */
     font-size: 18px !important;
     line-height: 1.2em !important;
@@ -223,7 +223,7 @@ header {
   /* prevent summary in homepage inherit .two-columns-css post classes */
   all: unset; /* réinitialise toutes les propriétés CSS héritées */
   /* Puis redéfinissez les styles souhaités */
-  color:#696969;
+  color:#2C2C2C;
   /*font-family: Arial, sans-serif;*/
 }
 .post-excerpt p {
