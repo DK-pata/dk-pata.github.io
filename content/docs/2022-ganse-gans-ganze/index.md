@@ -1,13 +1,13 @@
 ---
 title: Ganse Gans Ganze 2022
 date: 2022-08-07T00:00:00.000Z
+update: 20251210110612
 categories:
   - DK_WORK
 tags:
   - 2022
   - perf
   - Rattendael
-  - updt.
   - Tolmatcheff
   - Typo
 ---

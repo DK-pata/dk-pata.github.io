@@ -1,6 +1,7 @@
 ---
 title: 1997 / Vier Vitrinen Vor 
 date: 1997-10-24
+update: "20251210113221"
 categories:
   - DK_WORK
 tags:
@@ -10,7 +11,6 @@ tags:
   - Verhofstadt
   - Rossignol
   - 1997
-  - updt.
 ---
 
 ![](1997_Haus.des.lehrers.jpg)

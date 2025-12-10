@@ -1,13 +1,13 @@
 ---
 title: 2017 / De L'Air
 date: 2017-04-17
+update: 20251210113806
 categories:
   - DK_WORK
 tags:
   - typo
   - Affiches
   - Ostende
-  - updt.
 ---
 
 ![](affiche_ostende2017_web_delair.jpg)  

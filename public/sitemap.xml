@@ -2,411 +2,426 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dk-pata.github.io/cronologi/</loc>
+    <loc>http://localhost:1313/cronologi/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2025/</loc>
+    <loc>http://localhost:1313/tags/2025/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/categories/dk_work/</loc>
+    <loc>http://localhost:1313/categories/dk_work/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/</loc>
+    <loc>http://localhost:1313/docs/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/dordrecht/</loc>
+    <loc>http://localhost:1313/tags/dordrecht/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2025_equinox_dordrecht/</loc>
+    <loc>http://localhost:1313/docs/2025_equinox_dordrecht/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/perf/</loc>
+    <loc>http://localhost:1313/tags/perf/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2025_coffre-fort_klukal/</loc>
+    <loc>http://localhost:1313/docs/2025_coffre-fort_klukal/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/coffre-fort/</loc>
+    <loc>http://localhost:1313/tags/coffre-fort/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/artist-print/</loc>
+    <loc>http://localhost:1313/tags/artist-print/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2025-artist-print-12/</loc>
+    <loc>http://localhost:1313/docs/2025-artist-print-12/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2024/</loc>
+    <loc>http://localhost:1313/tags/2024/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/expo/</loc>
+    <loc>http://localhost:1313/tags/expo/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/jap/</loc>
+    <loc>http://localhost:1313/tags/jap/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/lls-paleis/</loc>
+    <loc>http://localhost:1313/tags/lls-paleis/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2024_lls_talk/</loc>
+    <loc>http://localhost:1313/docs/2024_lls_talk/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/bukta/</loc>
+    <loc>http://localhost:1313/tags/bukta/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2024_bukta_fin_de_party/</loc>
+    <loc>http://localhost:1313/docs/2024_bukta_fin_de_party/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/print/</loc>
+    <loc>http://localhost:1313/tags/print/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2024_la_machine_kunst/</loc>
+    <loc>http://localhost:1313/docs/2024_la_machine_kunst/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/maubeuge/</loc>
+    <loc>http://localhost:1313/tags/maubeuge/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2024_artists-print-xi/</loc>
+    <loc>http://localhost:1313/docs/2024_artists-print-xi/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2024_arme_sammler/</loc>
+    <loc>http://localhost:1313/docs/2024_arme_sammler/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/berlin/</loc>
+    <loc>http://localhost:1313/tags/berlin/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2023/</loc>
+    <loc>http://localhost:1313/tags/2023/</loc>
     <lastmod>2023-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2023-musee-ornitho/</loc>
+    <loc>http://localhost:1313/docs/2023-musee-ornitho/</loc>
     <lastmod>2023-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/stakattak/</loc>
+    <loc>http://localhost:1313/tags/stakattak/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2023_this-real-stakattak/</loc>
+    <loc>http://localhost:1313/docs/2023_this-real-stakattak/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2023_collection_rpatt/</loc>
+    <loc>http://localhost:1313/docs/2023_collection_rpatt/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/r.patt/</loc>
+    <loc>http://localhost:1313/tags/r.patt/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2022/</loc>
+    <loc>http://localhost:1313/tags/2022/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2022-ganse-gans-ganze/</loc>
+    <loc>http://localhost:1313/docs/2022-ganse-gans-ganze/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/rattendael/</loc>
+    <loc>http://localhost:1313/tags/rattendael/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/tolmatcheff/</loc>
+    <loc>http://localhost:1313/tags/tolmatcheff/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/typo/</loc>
+    <loc>http://localhost:1313/tags/typo/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/updt./</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dk-pata.github.io/tags/ceramique/</loc>
+    <loc>http://localhost:1313/tags/ceramique/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2022_ecole_d_art_uccle/</loc>
+    <loc>http://localhost:1313/docs/2022_ecole_d_art_uccle/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/laetitia/</loc>
+    <loc>http://localhost:1313/tags/laetitia/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2022_seance-academique-50-50/</loc>
+    <loc>http://localhost:1313/docs/2022_seance-academique-50-50/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2021/</loc>
+    <loc>http://localhost:1313/tags/2021/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2021_admiral_absturz/</loc>
+    <loc>http://localhost:1313/docs/2021_admiral_absturz/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/trouble/</loc>
+    <loc>http://localhost:1313/tags/trouble/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2021_huiskamer_gent/</loc>
+    <loc>http://localhost:1313/docs/2021_huiskamer_gent/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2021_coldor_jap/</loc>
+    <loc>http://localhost:1313/docs/2021_coldor_jap/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/multiple/</loc>
+    <loc>http://localhost:1313/tags/multiple/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2021_suck-multiple/</loc>
+    <loc>http://localhost:1313/docs/2021_suck-multiple/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/2020/</loc>
+    <loc>http://localhost:1313/tags/2020/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2020_p37_beforethedayafter/</loc>
+    <loc>http://localhost:1313/docs/2020_p37_beforethedayafter/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/p37/</loc>
+    <loc>http://localhost:1313/tags/p37/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/petites-selles-dappartement/</loc>
+    <loc>http://localhost:1313/tags/petites-selles-dappartement/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/lapproche/</loc>
+    <loc>http://localhost:1313/tags/lapproche/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2020_l_approche_juin/</loc>
+    <loc>http://localhost:1313/docs/2020_l_approche_juin/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2020-artistprint/</loc>
+    <loc>http://localhost:1313/docs/2020-artistprint/</loc>
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2020_le-chinois-aux-pinces-dor-de-chinees-met-de-gulden-scharen/</loc>
+    <loc>http://localhost:1313/docs/2020_le-chinois-aux-pinces-dor-de-chinees-met-de-gulden-scharen/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/muhka/</loc>
+    <loc>http://localhost:1313/tags/muhka/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2019_blanche_endive/</loc>
+    <loc>http://localhost:1313/docs/2019_blanche_endive/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/g.motte/</loc>
+    <loc>http://localhost:1313/tags/g.motte/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/lille/</loc>
+    <loc>http://localhost:1313/tags/lille/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2018_p37_alles_hat/</loc>
+    <loc>http://localhost:1313/docs/2018_p37_alles_hat/</loc>
     <lastmod>2018-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/annick-n%C3%B6lle/</loc>
+    <loc>http://localhost:1313/tags/annick-n%C3%B6lle/</loc>
     <lastmod>2018-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2017_delair_aff/</loc>
+    <loc>http://localhost:1313/docs/2017_delair_aff/</loc>
     <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/affiches/</loc>
+    <loc>http://localhost:1313/tags/affiches/</loc>
     <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/ostende/</loc>
+    <loc>http://localhost:1313/tags/ostende/</loc>
     <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2015_grand_paysage/</loc>
+    <loc>http://localhost:1313/docs/2015_grand_paysage/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/helsinki/</loc>
+    <loc>http://localhost:1313/tags/helsinki/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/coutures/</loc>
+    <loc>http://localhost:1313/tags/coutures/</loc>
     <lastmod>2012-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/serie/</loc>
+    <loc>http://localhost:1313/tags/serie/</loc>
     <lastmod>2012-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2012_traite_de_fauconnerie/</loc>
+    <loc>http://localhost:1313/docs/2012_traite_de_fauconnerie/</loc>
     <lastmod>2012-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/sic/</loc>
+    <loc>http://localhost:1313/tags/sic/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2012_col_rouge_secondroom/</loc>
+    <loc>http://localhost:1313/docs/2012_col_rouge_secondroom/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/cols/</loc>
+    <loc>http://localhost:1313/tags/cols/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/diapo/</loc>
+    <loc>http://localhost:1313/tags/diapo/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/platform-102/</loc>
+    <loc>http://localhost:1313/tags/platform-102/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2015_poorpoo/</loc>
+    <loc>http://localhost:1313/docs/2015_poorpoo/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/secondroom/</loc>
+    <loc>http://localhost:1313/tags/secondroom/</loc>
     <lastmod>2012-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2012_pff-zzz-bof/</loc>
+    <loc>http://localhost:1313/docs/2012_pff-zzz-bof/</loc>
     <lastmod>2012-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/fumoir/</loc>
+    <loc>http://localhost:1313/tags/fumoir/</loc>
     <lastmod>2011-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/fum_11_2011.bohnenberger/</loc>
+    <loc>http://localhost:1313/docs/fum_11_2011.bohnenberger/</loc>
     <lastmod>2011-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/s.bohnenberger/</loc>
+    <loc>http://localhost:1313/tags/s.bohnenberger/</loc>
     <lastmod>2011-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/pist_2011_ouragan/</loc>
+    <loc>http://localhost:1313/docs/2011_fw-10/</loc>
+    <lastmod>2011-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/freewheel/</loc>
+    <lastmod>2011-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/pist_2011_ouragan/</loc>
     <lastmod>2011-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/pistologie/</loc>
+    <loc>http://localhost:1313/tags/pistologie/</loc>
     <lastmod>2011-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/fum_10_2011.guy/</loc>
+    <loc>http://localhost:1313/docs/fum_10_2011.guy/</loc>
     <lastmod>2011-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/guy-cardoso/</loc>
+    <loc>http://localhost:1313/tags/guy-cardoso/</loc>
     <lastmod>2011-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2010_kaiser/</loc>
+    <loc>http://localhost:1313/docs/2010_kaiser/</loc>
     <lastmod>2010-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/pochoir/</loc>
+    <loc>http://localhost:1313/tags/pochoir/</loc>
     <lastmod>2010-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/prince-et-princesse/</loc>
+    <loc>http://localhost:1313/tags/prince-et-princesse/</loc>
     <lastmod>2010-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/fum_04_2009.odie_orc/</loc>
+    <loc>http://localhost:1313/docs/fum_04_2009.odie_orc/</loc>
     <lastmod>2009-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/odie-rynell-cash/</loc>
+    <loc>http://localhost:1313/tags/odie-rynell-cash/</loc>
     <lastmod>2009-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2009_l_art-du-lendemain/</loc>
+    <loc>http://localhost:1313/docs/2009_l_art-du-lendemain/</loc>
     <lastmod>2009-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/macs/</loc>
+    <loc>http://localhost:1313/tags/macs/</loc>
     <lastmod>2009-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/piste/</loc>
+    <loc>http://localhost:1313/tags/piste/</loc>
     <lastmod>2009-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/pist_2009_parasit/</loc>
+    <loc>http://localhost:1313/docs/pist_2009_parasit/</loc>
     <lastmod>2009-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/antwerpen/</loc>
+    <loc>http://localhost:1313/tags/antwerpen/</loc>
     <lastmod>2008-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2008_hitme/</loc>
+    <loc>http://localhost:1313/docs/2008_hitme/</loc>
     <lastmod>2008-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/hats/</loc>
+    <loc>http://localhost:1313/tags/hats/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/miete-strom-holz/</loc>
+    <loc>http://localhost:1313/tags/miete-strom-holz/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/pothead/</loc>
+    <loc>http://localhost:1313/tags/pothead/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2008_pothead/</loc>
+    <loc>http://localhost:1313/docs/2008_pothead/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/categories/dk_org/</loc>
+    <loc>http://localhost:1313/categories/dk_org/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/fum_01_2008.ll/</loc>
+    <loc>http://localhost:1313/docs/fum_01_2008.ll/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/04.dkorg-fum/</loc>
+    <loc>http://localhost:1313/docs/04.dkorg-fum/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/ll/</loc>
+    <loc>http://localhost:1313/tags/ll/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/andrew-webb/</loc>
+    <loc>http://localhost:1313/tags/andrew-webb/</loc>
     <lastmod>2005-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/bdp29_webb_waning_waxing/</loc>
+    <loc>http://localhost:1313/docs/bdp29_webb_waning_waxing/</loc>
     <lastmod>2005-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/bureau-du-port/</loc>
+    <loc>http://localhost:1313/tags/bureau-du-port/</loc>
     <lastmod>2005-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/bdp24_rufus/</loc>
+    <loc>http://localhost:1313/docs/bdp24_rufus/</loc>
     <lastmod>2005-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/rufus/</loc>
+    <loc>http://localhost:1313/tags/rufus/</loc>
     <lastmod>2005-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/pist_2004_vis_comica_fin/</loc>
+    <loc>http://localhost:1313/docs/pist_2004_vis_comica_fin/</loc>
     <lastmod>2004-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/bdp16_stenmans_bete_peinture/</loc>
+    <loc>http://localhost:1313/docs/bdp16_stenmans_bete_peinture/</loc>
     <lastmod>2003-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/eric-stenmans/</loc>
+    <loc>http://localhost:1313/tags/eric-stenmans/</loc>
     <lastmod>2003-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/2020_puurs_ketteund-schuss/</loc>
+    <loc>http://localhost:1313/docs/2020_puurs_ketteund-schuss/</loc>
     <lastmod>2000-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/bdp02_verhofstadt_elegance/</loc>
+    <loc>http://localhost:1313/docs/bdp02_verhofstadt_elegance/</loc>
     <lastmod>2000-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/patrice-verhofstadt/</loc>
+    <loc>http://localhost:1313/tags/patrice-verhofstadt/</loc>
     <lastmod>2000-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/bdp01-dk-pauvremonsieur/</loc>
+    <loc>http://localhost:1313/docs/bdp01-dk-pauvremonsieur/</loc>
     <lastmod>2000-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/dk/</loc>
+    <loc>http://localhost:1313/tags/dk/</loc>
     <lastmod>2000-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/03.dkorg-bdp/</loc>
+    <loc>http://localhost:1313/docs/03.dkorg-bdp/</loc>
     <lastmod>2000-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/1999_steun_nu_dk/</loc>
+    <loc>http://localhost:1313/docs/1999_steun_nu_dk/</loc>
     <lastmod>1999-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/e.v.a.-malibran/</loc>
+    <loc>http://localhost:1313/tags/1997/</loc>
+    <lastmod>1997-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/1997_hausdeslehrers_berlin/</loc>
+    <lastmod>1997-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rossignol/</loc>
+    <lastmod>1997-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/verhofstadt/</loc>
+    <lastmod>1997-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e.v.a.-malibran/</loc>
     <lastmod>1996-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/laboratoires-patacyclistes/</loc>
+    <loc>http://localhost:1313/tags/laboratoires-patacyclistes/</loc>
     <lastmod>1996-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/lp14_ferm%C3%A9_gesloten/</loc>
+    <loc>http://localhost:1313/docs/lp14_ferm%C3%A9_gesloten/</loc>
     <lastmod>1996-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/1994-eedsapins/</loc>
+    <loc>http://localhost:1313/docs/1994-eedsapins/</loc>
     <lastmod>1994-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/sapin/</loc>
+    <loc>http://localhost:1313/tags/sapin/</loc>
     <lastmod>1994-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/lp06_grands_brul%C3%A9s/</loc>
+    <loc>http://localhost:1313/docs/lp06_grands_brul%C3%A9s/</loc>
     <lastmod>1994-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/02.dkorg-pist/</loc>
+    <loc>http://localhost:1313/docs/02.dkorg-pist/</loc>
     <lastmod>1994-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/jef-lambrecht/</loc>
+    <loc>http://localhost:1313/tags/jef-lambrecht/</loc>
     <lastmod>1993-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/lp03_peintre_de_portes/</loc>
+    <loc>http://localhost:1313/docs/lp03_peintre_de_portes/</loc>
     <lastmod>1993-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/1992-.._mix_typo/</loc>
+    <loc>http://localhost:1313/docs/1992-.._mix_typo/</loc>
     <lastmod>1993-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/01.dkorg-lp/</loc>
+    <loc>http://localhost:1313/docs/01.dkorg-lp/</loc>
     <lastmod>1992-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/tags/editions/</loc>
+    <loc>http://localhost:1313/tags/editions/</loc>
     <lastmod>1992-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/docs/1992-1999_en_fanfare_/</loc>
+    <loc>http://localhost:1313/docs/1992-1999_en_fanfare_/</loc>
     <lastmod>1992-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dk-pata.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>

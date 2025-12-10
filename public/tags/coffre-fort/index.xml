@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coffre-Fort on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/coffre-fort/</link>
+    <link>http://localhost:1313/tags/coffre-fort/</link>
     <description>Recent content in Coffre-Fort on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/coffre-fort/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coffre-fort/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 Kaldango Nala </title>
-      <link>https://dk-pata.github.io/docs/2025_coffre-fort_klukal/</link>
+      <link>http://localhost:1313/docs/2025_coffre-fort_klukal/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/2025_coffre-fort_klukal/</guid>
+      <guid>http://localhost:1313/docs/2025_coffre-fort_klukal/</guid>
       <description>&lt;div class=&#34;two-columns-css&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;flyer-coffre-2025.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dialogist-Kantor Artists Club Coffre-Fort&lt;br&gt;&#xA;&amp;ldquo;Kaldango Nala&amp;rdquo;&lt;br&gt;&#xA;16-05-2025 7-10 pm&lt;br&gt;&#xA;hopstraat 63 / brussels 1000&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;kaldango.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot; Wala-Bolgani &amp;quot;&#xA;Wala = &amp;ldquo;nest&amp;rdquo; or &amp;ldquo;place&amp;rdquo; + Bolgani = &amp;ldquo;gorilla&amp;rdquo; (métaphore de force)&#xA;&amp;quot; ja-ze-Wala &amp;quot; ou  &amp;ldquo;ja-eta-Wala&amp;rsquo;&#xA;ja-ze ou ja-eta = protéger&#xA;ou encore&#xA;&amp;quot; Wala-Zu-Vo &amp;quot; ou &amp;ldquo;Wala-zu-vo-ze&amp;rdquo;&#xA;qui intègre l&amp;rsquo;idée de forteresse&lt;/p&gt;</description>
     </item>
   </channel>

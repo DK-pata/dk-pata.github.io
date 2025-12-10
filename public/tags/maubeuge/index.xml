@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maubeuge on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/maubeuge/</link>
+    <link>http://localhost:1313/tags/maubeuge/</link>
     <description>Recent content in Maubeuge on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/maubeuge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/maubeuge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Machine Kunst 20.04.2024 Maubeuge</title>
-      <link>https://dk-pata.github.io/docs/2024_la_machine_kunst/</link>
+      <link>http://localhost:1313/docs/2024_la_machine_kunst/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/2024_la_machine_kunst/</guid>
+      <guid>http://localhost:1313/docs/2024_la_machine_kunst/</guid>
       <description>&lt;div class=&#34;two-columns-css&#34;&gt; &#xD;&#xA;&lt;p&gt;&lt;img src=&#34;aff_DK_Shaksp.jpg&#34; alt=&#34;afficheDKshakespeare&#34; title=&#34;aff_DK_Shaksp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dialogist-Kantor &amp;ldquo;La Machine Kunst&amp;rdquo;&lt;br&gt;&#xA;&lt;strong&gt;SAT 20.04.2024&lt;/strong&gt;&lt;br&gt;&#xA;Le Shakespear , 3 rue du commerce, Maubeuge&lt;br&gt;&#xA;16 - 21 avril 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;DSC04853_Maubeuge2024.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;sub&gt; Klu-Kal, Maubeuge, France &lt;/sub&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Maubeuge_La_Machine_Kunst_2024.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sub&gt; résidence-création  &lt;strong&gt;idem+arts&lt;/strong&gt;  3 Rue Georges Paillot, Maubeuge, France &lt;/sub&gt;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

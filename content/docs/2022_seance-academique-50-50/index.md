@@ -1,11 +1,11 @@
 ---
 title: 'Séance Académique 50/50 (11 FEB 2022) '
 date: 2022-02-11T00:00:00.000Z
+update: 20251210104626
 categories:
   - DK_WORK
 tags:
   - 2022
-  - updt.
   - Laetitia
 ---
 

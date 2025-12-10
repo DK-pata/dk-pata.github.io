@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odie Rynell Cash on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/odie-rynell-cash/</link>
+    <link>http://localhost:1313/tags/odie-rynell-cash/</link>
     <description>Recent content in Odie Rynell Cash on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/odie-rynell-cash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/odie-rynell-cash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fumoir 04 ORC</title>
-      <link>https://dk-pata.github.io/docs/fum_04_2009.odie_orc/</link>
+      <link>http://localhost:1313/docs/fum_04_2009.odie_orc/</link>
       <pubDate>Sat, 25 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/fum_04_2009.odie_orc/</guid>
-      <description>&lt;p&gt;SECTION: &lt;a href=&#34;../04.dkorg-fum&#34;&gt;&lt;strong&gt;FUMOIR / ROOKZAAL&lt;/strong&gt;&lt;/a&gt; Bruxelles 2008-2012&#xA;&lt;strong&gt;F04/12&lt;/strong&gt; 25/07/2009&lt;br&gt;&#xA;&lt;strong&gt;Odie Rynell Cash and a few rastarari abstracs&lt;/strong&gt;&lt;br&gt;&#xA;with &amp;ldquo;postponed indefinitely&amp;rdquo;&lt;br&gt;&#xA;soundwork and text for consumption&lt;br&gt;&#xA;time variable&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/Fum04_ORC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;incl additional contributions: Marc Rossignol, Sturm &amp;amp; Lie,  Piotr Osuszkiewicz, Merzedes Sturm-Lie, Heinrich Obst &amp;amp; LL&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/fum_04_2009.odie_orc/</guid>
+      <description>&lt;p&gt;SECTION: &lt;a href=&#34;../04.dkorg-fum&#34;&gt;&lt;strong&gt;FUMOIR / ROOKZAAL&lt;/strong&gt;&lt;/a&gt; Bruxelles 2008-2012&#xA;&lt;strong&gt;F04/12&lt;/strong&gt; 25/07/2009&lt;br&gt;&#xA;&lt;strong&gt;Odie Rynell Cash and a few rastarari abstracs&lt;/strong&gt;&lt;br&gt;&#xA;with &amp;ldquo;postponed indefinitely&amp;rdquo;&lt;br&gt;&#xA;soundwork and text for consumption&lt;br&gt;&#xA;time variable&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/Fum04_ORC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;incl additional contributions: Marc Rossignol, Sturm &amp;amp; Lie,  Piotr Osuszkiewicz, Merzedes Sturm-Lie, Heinrich Obst &amp;amp; LL&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

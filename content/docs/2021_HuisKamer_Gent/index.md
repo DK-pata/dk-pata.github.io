@@ -1,12 +1,12 @@
 ---
 title: Huis Kamer / Gent Glass
 date: 2021-05-08T00:00:00.000Z
+update: 20251210110724
 categories:
   - DK_WORK
 tags:
   - 2021
   - perf
-  - updt.
 ---
 
 

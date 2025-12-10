@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rufus on PATACYCLISTE.ORG</title>
-    <link>https://dk-pata.github.io/tags/rufus/</link>
+    <link>http://localhost:1313/tags/rufus/</link>
     <description>Recent content in Rufus on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Mar 2005 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dk-pata.github.io/tags/rufus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rufus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BDP24 &#34;86 revisited&#34;</title>
-      <link>https://dk-pata.github.io/docs/bdp24_rufus/</link>
+      <link>http://localhost:1313/docs/bdp24_rufus/</link>
       <pubDate>Sat, 19 Mar 2005 00:00:00 +0000</pubDate>
-      <guid>https://dk-pata.github.io/docs/bdp24_rufus/</guid>
-      <description>&lt;p&gt;Section: &lt;a href=&#34;../03.dkorg-bdp&#34;&gt;&lt;strong&gt;BUREAU DU PORT&lt;/strong&gt;&lt;/a&gt;  Bruxelles 1999-2007&#xA;Ordre: (24/34) BDP&lt;br&gt;&#xA;Artiste: &lt;strong&gt;Rufus&lt;/strong&gt;&lt;br&gt;&#xA;titre:  &lt;em&gt;&amp;ldquo;86 revisited&amp;rdquo;&lt;/em&gt; &lt;br&gt;&#xA;Date: 19 mars-04 apr/2005&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dk-pata.github.io/img/BDP_24_th.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/docs/bdp24_rufus/</guid>
+      <description>&lt;p&gt;Section: &lt;a href=&#34;../03.dkorg-bdp&#34;&gt;&lt;strong&gt;BUREAU DU PORT&lt;/strong&gt;&lt;/a&gt;  Bruxelles 1999-2007&#xA;Ordre: (24/34) BDP&lt;br&gt;&#xA;Artiste: &lt;strong&gt;Rufus&lt;/strong&gt;&lt;br&gt;&#xA;titre:  &lt;em&gt;&amp;ldquo;86 revisited&amp;rdquo;&lt;/em&gt; &lt;br&gt;&#xA;Date: 19 mars-04 apr/2005&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/BDP_24_th.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

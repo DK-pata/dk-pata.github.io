@@ -34,35 +34,37 @@
       {{ end }}
     </div>
     
-    <!-- COLONNE 2 : Posts avec le tag "zen" -->
-    <div class="images-column">
-      <!-- <h2>Events</h2> -->
-      {{ $count := 0 }}
-      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "updt.") }}
-        {{ if lt $count 5 }}
-        <article class="post-preview">
-          <!-- Première image du post -->
-          {{ with .Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
-            <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="post-image">
-          {{ else }}
-            {{ with $.Params.image }}
-              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="post-image">
-            {{ end }}
-          {{ end }}
-          
-          <!-- Extrait de texte (environ 3 lignes) -->
-          <div class="post-excerpt">
-            {{ .Summary | truncate 200 }}
-          </div>
-          
-          <a href="{{ .Permalink }}" class="read-more">read  '{{ .Title }}' →</a>
-          <!-- <br><br> -->
+    <!-- COLONNE 2 : 5 last updated posts (ONLY posts with an update field) -->
+<div class="images-column">
 
-        </article>
-        {{ $count = add $count 1 }}
+  {{ $withUpdate := where .Site.RegularPages "Params.update" "!=" nil }}
+  {{ $sorted := sort $withUpdate "Params.update" "desc" }}
+
+  {{ range first 5 $sorted }}
+    <article class="post-preview">
+
+      <!-- Image -->
+      {{ with .Resources.GetMatch "*.{jpg,jpeg,png,gif,webp}" }}
+        <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="post-image">
+      {{ else }}
+        {{ with .Params.image }}
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="post-image">
         {{ end }}
       {{ end }}
-    </div>
+
+      <!-- Extrait -->
+      <div class="post-excerpt">
+        {{ .Summary | truncate 200 }}
+      </div>
+
+      <a href="{{ .Permalink }}" class="read-more">read '{{ .Title }}' →</a>
+
+    </article>
+  {{ end }}
+
+</div>
+
+
     
   </div>
 </main>
