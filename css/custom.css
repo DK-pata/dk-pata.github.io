@@ -142,14 +142,22 @@ main {
 }
   /* post title */
 .article-meta h1 {
-  text-transform: uppercase; /* Uppercase first letter in every word */
-  color: #000080;  /*Set text color */
+  text-transform: capitalize; /* Uppercase first letter in every word */
   /*background: #e2e6f6;  Title background color */
   display: inline-block;  /*Only the title, not entire line */
   padding-bottom: 0.3em;  /* Optional: pad for some spacing */
   font-family:  serif;
   border-bottom: 1px solid  #000080;
-  font-size: 1em  !important;
+  font-size: 1.1em  !important;
+}
+.meta  { 
+  padding-left: 0.5em;
+  margin: 0;
+  font-size: 0.9em;
+  
+}
+.meta a,.article-meta h1 {
+  color: #0218e4;
 }
 .light-text {
     font-weight: 300 !important;  /* Light */
@@ -163,23 +171,19 @@ code {
   background: none;
 }
 footer sup {
-  font-family: 'FluxischElseLight', sans-serif !important;
+  font-family: 'FluxischElse', sans-serif !important;
   font-size: 0.8em !important;
   color: #696969;
 
 } 
 header {
-  font-family: 'FluxischElseLight', sans-serif !important;
+  font-family: 'FluxischElse', sans-serif !important;
   padding: 0.5em;
   margin-bottom: 0.8em;
   font-size: 1.1em !important;
   /* background-image: linear-gradient(90deg, #90d5ff  0%, #fff8dc 80%); */
 }
-.meta { 
-  padding-left: 0.5em;
-  margin: 0;
-  font-size: 0.9em;
-}
+
 /* Bundle images + captions */
 .bundle-image {
   margin: 1rem 0;
