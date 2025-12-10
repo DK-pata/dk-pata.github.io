@@ -10,13 +10,13 @@ tags:
   - Freewheel
 ---
 
-![](freewheel.10.jpg)  
+![](FREEWHEEL_10.jpg)  
 <sup>Freewheel N°10 Nov. 2011</sup>  
 
 A. Choix de la date  
 B. Occupy yourself!  
 
-20 ex. Format A3
+22 ex. Format A3
  
 
 
