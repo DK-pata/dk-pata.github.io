@@ -1,6 +1,6 @@
 ---
 title: 1997 / Vier Vitrinen Vor 
-date: 2025-10-24
+date: 1997-10-24
 categories:
   - DK_WORK
 tags:
