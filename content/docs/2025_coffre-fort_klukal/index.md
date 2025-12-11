@@ -20,10 +20,15 @@ hopstraat 63 / brussels 1000
 
 ![](kaldango.jpg)  
 
-" Wala-Bolgani "
+" Wala-Bolgani "  
 Wala = "nest" or "place" + Bolgani = "gorilla" (métaphore de force)
      " ja-ze-Wala " ou  "ja-eta-Wala'
-ja-ze ou ja-eta = protéger
-ou encore 
-" Wala-Zu-Vo " ou "Wala-zu-vo-ze"
-qui intègre l'idée de forteresse
+ja-ze ou ja-eta = protéger  
+ou encore  
+" Wala-Zu-Vo " ou "Wala-zu-vo-ze"  
+qui intègre l'idée de forteresse  
+
+![](freewheel_14_1+2.jpg)  
+<sup> Freewheel 14 (A+B) Coffre-Fort 2025 </sup>
+
+14B = Lexique Fr-Mangani 

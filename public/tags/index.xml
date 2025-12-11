@@ -506,6 +506,20 @@
       <description></description>
     </item>
     <item>
+      <title>Affiche</title>
+      <link>http://localhost:1313/tags/affiche/</link>
+      <pubDate>Sun, 05 Jun 1994 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/affiche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marc Rossignol</title>
+      <link>http://localhost:1313/tags/marc-rossignol/</link>
+      <pubDate>Sun, 05 Jun 1994 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/marc-rossignol/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Jef Lambrecht</title>
       <link>http://localhost:1313/tags/jef-lambrecht/</link>
       <pubDate>Wed, 21 Jul 1993 00:00:00 +0000</pubDate>
