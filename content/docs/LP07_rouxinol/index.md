@@ -8,6 +8,7 @@ tags:
   - E.V.A. Malibran
   - typo
   - affiche
+  - 1994
 ---
 SECTION: **[Laboratoires Patacyclistes](../01.dkorg-lp)** (1992-1999) LP 07/25  
 
@@ -19,7 +20,7 @@ SECTION: **[Laboratoires Patacyclistes](../01.dkorg-lp)** (1992-1999) LP 07/25
 ![](LP07_Rossignol_1994_1.jpg)  
 
 Ouverture de E.V.A. Malibran 05/06/1994. 
-Installation de Marc Rossignol (ré)activée plusieurs fois avec différents modules cylindriques sur un cercle de sable au sol d'un mètre de diamètre. 
+ Installation de Marc Rossignol, activée à plusieurs reprises, avec différents modules cylindriques placés et roulés sur un cercle de sable tracé au sol d’un mètre de diamètre.
 
 ![](LP07_Rossignol_1994_2.jpg)  
 ![](LP07_Rossignol_1994_3.jpg)  
