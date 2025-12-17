@@ -44,10 +44,10 @@ Quelques exemples:
 D'une façon générale, la surprise est un élément déterminant de la réussite.
 
 ![](fauconnerie1.jpg)  
-<sub> Traité de fauconnerie 2012 2012 </sub>  
+<sub> Traité de fauconnerie 2012 A</sub>  
 
 ![](fauconnerie2.jpg)  
-<sub> Traité de fauconnerie 2012 2012 </sub>  
+<sub> Traité de fauconnerie 2012 B </sub>  
 
 links:
 [http://www.rossicontemporary.be](http://www.rossicontemporary.be) 
