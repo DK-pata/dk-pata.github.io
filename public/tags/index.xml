@@ -6,8 +6,43 @@
     <description>Recent content in Tags on PATACYCLISTE.ORG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026</title>
+      <link>http://localhost:1313/tags/2026/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JAP</title>
+      <link>http://localhost:1313/tags/jap/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perf</title>
+      <link>http://localhost:1313/tags/perf/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/perf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artist Print</title>
+      <link>http://localhost:1313/tags/artist-print/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artist-print/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2025</title>
       <link>http://localhost:1313/tags/2025/</link>
@@ -23,17 +58,31 @@
       <description></description>
     </item>
     <item>
-      <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
+      <title>2006</title>
+      <link>http://localhost:1313/tags/2006/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2006/</guid>
       <description></description>
     </item>
     <item>
-      <title>Perf</title>
-      <link>http://localhost:1313/tags/perf/</link>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/perf/</guid>
+      <title>Andrew Webb</title>
+      <link>http://localhost:1313/tags/andrew-webb/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/andrew-webb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expo</title>
+      <link>http://localhost:1313/tags/expo/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/expo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Updt.</title>
+      <link>http://localhost:1313/tags/updt./</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/updt./</guid>
       <description></description>
     </item>
     <item>
@@ -44,31 +93,10 @@
       <description></description>
     </item>
     <item>
-      <title>Artist Print</title>
-      <link>http://localhost:1313/tags/artist-print/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/artist-print/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>2024</title>
       <link>http://localhost:1313/tags/2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Expo</title>
-      <link>http://localhost:1313/tags/expo/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/expo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JAP</title>
-      <link>http://localhost:1313/tags/jap/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jap/</guid>
       <description></description>
     </item>
     <item>
@@ -422,13 +450,6 @@
       <description></description>
     </item>
     <item>
-      <title>Andrew Webb</title>
-      <link>http://localhost:1313/tags/andrew-webb/</link>
-      <pubDate>Sat, 17 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/andrew-webb/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Bureau Du Port</title>
       <link>http://localhost:1313/tags/bureau-du-port/</link>
       <pubDate>Sat, 17 Sep 2005 00:00:00 +0000</pubDate>
@@ -503,6 +524,13 @@
       <link>http://localhost:1313/tags/sapin/</link>
       <pubDate>Sat, 31 Dec 1994 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sapin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1994</title>
+      <link>http://localhost:1313/tags/1994/</link>
+      <pubDate>Sun, 05 Jun 1994 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1994/</guid>
       <description></description>
     </item>
     <item>

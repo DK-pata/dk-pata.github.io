@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/2026_2portes_jap/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2026/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/dk_work/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jap/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/news/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/perf/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artist-print/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/2026-test/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cronologi/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2025/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/dk_work/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dordrecht/</loc>
@@ -23,14 +47,20 @@
     <loc>http://localhost:1313/docs/2025_equinox_dordrecht/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/news/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/2006/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/perf/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/2006_boxcox/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/andrew-webb/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/expo/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/updt./</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/2025_coffre-fort_klukal/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
@@ -38,19 +68,10 @@
     <loc>http://localhost:1313/tags/coffre-fort/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/artist-print/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/docs/2025-artist-print-12/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2024/</loc>
-    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/expo/</loc>
-    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jap/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lls-paleis/</loc>
@@ -326,9 +347,6 @@
     <loc>http://localhost:1313/tags/ll/</loc>
     <lastmod>2008-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/andrew-webb/</loc>
-    <lastmod>2005-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/docs/bdp29_webb_waning_waxing/</loc>
     <lastmod>2005-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -397,6 +415,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/sapin/</loc>
     <lastmod>1994-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/1994/</loc>
+    <lastmod>1994-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/affiche/</loc>
     <lastmod>1994-06-05T00:00:00+00:00</lastmod>
