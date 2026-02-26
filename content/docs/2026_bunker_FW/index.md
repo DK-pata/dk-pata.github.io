@@ -14,8 +14,8 @@ categories:
 
 ![Bunker #78](flyersDK_fanzine.mars2026corr.jpg) 
 
-**Mercredi du Fanzine #78**    
-Ce mercredi 4 mars2026, sont annoncées :  
+**Mercredi du Fanzine #78**  4 mars 2026 apd 18h    
+Au Bunker 66A rue des Plantes 1210 Bruxelles  
 
 *** Stéphane Gillain, en route mousaillons !  
 *** Blow Book, des petits lives pour les croisières mouvementées;  
