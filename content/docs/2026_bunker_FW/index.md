@@ -12,18 +12,14 @@ categories:
 
 <div class="two-columns-css"> 
 
-![Bunker #78](flyersDK_fanzine.mars2026corr.jpg) 
-<sup>Mercredi du Fanzine #78</sup>  
+![Mercredi du Fanzine #78](flyersDK_fanzine.mars2026corr.jpg) 
 
 4 mars 2026 apd 18h    
 Au Bunker 66A rue des Plantes 1210 Bruxelles  
 
-*** Stéphane Gillain, en route mousaillons !  
-*** Blow Book, des petits lives pour les croisières mouvementées;  
-*** Dialogist-Kantor, des marins sur le pont;  
-*** Diego Thielemans, tout en couleur le fond sera bleu;  
-*** Les petits livres pour la jeunesse, pour calmer la tempête !  
-*** Manon, @awa bazart, en flibustière à la proue !
+Stéphane Gillain, en route mousaillons ! / Blow Book, des petits lives pour les croisières mouvementées /Dialogist-Kantor, des marins sur le pont / Diego Thielemans, tout en couleur le fond sera bleu;    
+Les petits livres pour la jeunesse, pour calmer la tempête !  
+Manon, @awa bazart, en flibustière à la proue !
 
 Concerts 
 
