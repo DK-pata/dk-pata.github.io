@@ -12,7 +12,7 @@ categories:
 <div class="two-columns-css"> 
 
 ![](dordrecht_2025.jpg)  
-<sup>thermoprint, Dordrecht 2025</sup>  
+<sup>thermoprint Dordrecht 2025</sup>  
 Same but Different - Equinox to Equinox  
 een internationaal event voor publieke acties 21.09.2025  
 [https://222lodge.nl](https://222lodge.nl)  

@@ -1,6 +1,6 @@
 ---
 title: 'Mercredis du Fanzine #78'
-date: 2026-03-04
+date: 2026-02-25
 tags:
     - freewheel
     - bunker
@@ -13,8 +13,9 @@ categories:
 <div class="two-columns-css"> 
 
 ![Bunker #78](flyersDK_fanzine.mars2026corr.jpg) 
+<sup>Mercredi du Fanzine #78</sup>  
 
-**Mercredi du Fanzine #78**  4 mars 2026 apd 18h    
+4 mars 2026 apd 18h    
 Au Bunker 66A rue des Plantes 1210 Bruxelles  
 
 *** Stéphane Gillain, en route mousaillons !  
