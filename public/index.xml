@@ -9,7 +9,7 @@
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Figura</title>
+      <title>Figura @ Garage Cosmos Bruxelles</title>
       <link>http://localhost:1313/docs/2026_cosmos/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/2026_cosmos/</guid>
@@ -471,18 +471,18 @@
       <description>&lt;p&gt;affiches distribuées / postées  (39 numéros)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ef11.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sup&gt; EF! 13 /1993 Brossage des mains et choix de la veine&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;format: A3&lt;br&gt;&#xA;technique: copies couleurs, typo, serigraphie, divers&lt;br&gt;&#xA;exemplaires:max.40 ou moins exept. EF!22 gal. Vincenz Sala nov.1995 +- 100 ex.&lt;/p&gt;&#xA;&lt;p&gt;Edition des fac-simili  2016  (25 ex. couleur/A4)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/DK_en_fanfare_cover.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/DK_en_fanfare_Brass_boekenbeurs2_017_sm.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;sub&gt; ARTISTPRINT 2017 BRASS Bruxelles&lt;/sub&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Dialogist-Kantor (T.G &amp;amp; C.M.) since 1992&lt;br&gt;&#xA;Bruxelles/Brussel/Brussels&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/thumb.jpg&#34; alt=&#34;Chapeau! D-K&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;La pratique des Dialogist-Kantor est rhizomique et cumulative. Chaque expérience qu&amp;rsquo;elle soit de l&amp;rsquo;ordre de la performance ou de la réalisation d&amp;rsquo;objets se prolonge dans la suivante et résonne de toutes les précédentes. Cette attitude a pour conséquence que l&amp;rsquo;indéniable qualité plastique de leur travail n&amp;rsquo;est qu&amp;rsquo;une partie constitutive d&amp;rsquo;un ensemble de relations beaucoup plus vastes qui se transforment au fil du travail en un inextricable réseau de significations et de liens qu&amp;rsquo;il serait non seulement illusoire mais dommageable de vouloir démêler.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Hugo XMin</title>
       <link>http://localhost:1313/_about---or/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/_about---or/</guid>
       <description>&lt;p&gt;however, philosophy&#xA;&lt;strong&gt;XMin&lt;/strong&gt; is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>D-K</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Dialogist-Kantor (T.G &amp;amp; C.M.) since 1992&lt;br&gt;&#xA;Bruxelles/Brussel/Brussels&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/thumb.jpg&#34; alt=&#34;Chapeau! D-K&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;La pratique des Dialogist-Kantor est rhizomique et cumulative. Chaque expérience qu&amp;rsquo;elle soit de l&amp;rsquo;ordre de la performance ou de la réalisation d&amp;rsquo;objets se prolonge dans la suivante et résonne de toutes les précédentes. Cette attitude a pour conséquence que l&amp;rsquo;indéniable qualité plastique de leur travail n&amp;rsquo;est qu&amp;rsquo;une partie constitutive d&amp;rsquo;un ensemble de relations beaucoup plus vastes qui se transforment au fil du travail en un inextricable réseau de significations et de liens qu&amp;rsquo;il serait non seulement illusoire mais dommageable de vouloir démêler.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: : )
+title: D-K
 author: Dialogist-Kantor
 ---
 Dialogist-Kantor (T.G & C.M.) since 1992  
