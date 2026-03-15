@@ -1,5 +1,5 @@
 ---
-title: 'Figura'
+title: 'Figura @ Garage Cosmos Bruxelles'
 date: 2026-03-01
 tags:
     - col d'or
