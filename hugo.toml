@@ -20,10 +20,6 @@ category = "categories"
     name = "Home |"
     url = ""
     weight = 1
-  # [[menu.main]]
-  #   name = "About"
-  #   url = "about/"
-  #   weight = 2
   [[menu.main]]
     name = "Categories |"
     url = "categories/"
@@ -33,8 +29,13 @@ category = "categories"
     url = "tags/"
     weight = 3
   [[menu.main]]
-    name = "Cronologi"
+    name = "Cronologi |"
     url = "cronologi/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 5
 
 [params]
   description = "Dialogist-Kantor Archives 1992-2025"
