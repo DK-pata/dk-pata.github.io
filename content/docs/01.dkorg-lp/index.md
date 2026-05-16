@@ -26,7 +26,7 @@ LP04 Jean-Luc Paquet – Brussel
 LP05 Michèle Barley - Brussel  
 **1994**  
 LP06 ["Les Grands Brulés" - Oostende](../lp06_grands_brul%C3%A9s)  
-LP07 [Rossignol, Nightingale](../LP07_rouxinol) - E.V.A. Malibran - Brussel  
+LP07 [Rossignol, Nightingale](../lp07_rouxinol) - E.V.A. Malibran - Brussel  
 LP08 Somer Universita - E.V.A. Malibran - Brussel  
 LP08 1/2 Les aventures de Nanouche, Lombardie (Bxl) - Brussel  
 LP09 Oorlogsrecepten - E.V.A. Malibran - Brussel  
