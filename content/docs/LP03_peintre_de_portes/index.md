@@ -36,30 +36,3 @@ De laatste raadsels van dit document,de stempels '8393' en 'le peintre des porte
 'le peintre des portes porte' schijnt onaf maar ja, iemand draagt de kolenzakken en altijd zonder morren.
  
 JL 2015  
-<!--
-{% for image in page.media.images %}
-  <li class="w3-hover-grayscale caruli">{{ image.html }}</li>
-{% endfor %}
-
- </div>
-
-<div class="col-6" markdown="1">
-<div class ="updates">
-  <small>Updt.in Lab.Patacyclistes</small>
-
-{% for p in taxonomy.findTaxonomy({'category': 'Laboratoires Patacyclistes'}).published.order('date', 'desc') %} 
-<a class="" href="{{ p.url }}">{{ p.title }}</a>
-{% endfor %}
-
-</div>
-<br>
-
-
-<button class="button">news</button>
-{% for p in taxonomy.findTaxonomy({'tag': 'news'}).published.order('date', 'desc') %} 
-<a class=" newstitle" href="{{ p.url }}">{{ p.title }}</a>
-{{ p.summary }}
-{% endfor %}
-</div>     
-</div>
- -->
