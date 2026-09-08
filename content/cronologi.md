@@ -14,6 +14,16 @@ date: 2025-10-20
 
 solo **(S)** + group
 
+**2026**
+- Figura 07 March – 05 April 2026 List of artists:Art & Language, Jean-Pierre Bertrand, Sabine Blanc, Dialogist-Kantor, Aurélie Gravelat, Raymond Hains, Isidore Isou, Joseph Kosuth, Antoine Laval, Dominique Rappez, Marc Rossignol, Eugène Savitzkaya, Francis Schmetz, Bernard Villers. <br> Garage Cosmos
+Avenue des Sept Bonniers 43 1180 - Bruxelles 
+
+- Mercredis du Fanzine #78 4 mars 2026 apd 18h <br>
+Au Bunker 66A rue des Plantes 1210 Bruxelles
+
+- AMATEURS DE MYSTÈRES UTILISEZ VOS GANTS DE BOXE 20.02 > 11.04.26 / 10 > 18:00 /   
+ENTRE DEUX PORTES (JAP) Rue de Namur 64, 1000 Bruxelles  
+
 **2025**  
 - Kaldango Nala 16-05-2025 Artists Club Coffre-Fort Brussels **(S)**  
 - ARTISTS PRINT XII 01>02.02.25 / LA MAISON DES ARTS DE SCHAERBEEK  
