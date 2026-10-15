@@ -1,6 +1,6 @@
 ---
 title: 'Ropas Viejas'
-date: 2026-11-12
+date: 2026-10-12
 tags:
     - poelp
     - news
