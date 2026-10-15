@@ -15,6 +15,6 @@ categories:
 
 Jot Fau + Dialogist-Kantor
 commissariat : Clémentine Davin + sabine j. sil  
-13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  
+13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  18h.  
 
 </div>
