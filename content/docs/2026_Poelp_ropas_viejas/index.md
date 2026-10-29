@@ -11,7 +11,7 @@ categories:
 
 <div class="two-columns-css"> 
 
-![poelp_AFF](ropasviejas-FB.png) 
+![ropas viejas aff.](affiche_poelp.final.jpeg) 
 
 Jot Fau + Dialogist-Kantor
 commissariat : Clémentine Davin + sabine j. sil  
