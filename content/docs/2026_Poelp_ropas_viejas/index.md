@@ -7,6 +7,7 @@ tags:
     - 2026
 categories:
     - DK_WORK
+    - Freewheel
 ---
 
 <div class="two-columns-css"> 
@@ -15,6 +16,8 @@ categories:
 
 Jot Fau + Dialogist-Kantor
 commissariat : Clémentine Davin + sabine j. sil  
-13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  18h.  
+13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  18h. 
+![FW16 poelp](FW16_poelp02.jpg)  
+<sup>collaborative FW16 incl. Jot, Aly, Clementine, Antoine, sabine & DK</sup> 
 
 </div>
