@@ -1,7 +1,6 @@
 ---
 title: 'Ropas Viejas'
 date: 2026-10-12
-image: "affiche_poelp.final.jpeg"
 tags:
     - poelp
     - news
@@ -14,7 +13,7 @@ categories:
 
 <div class="two-columns-css"> 
 
-![ropas viejas aff.](affiche_poelp.final.jpeg) 
+![ropas viejas aff.](Affiche_poelp.final.jpeg) 
 Jot Fau + Dialogist-Kantor
 commissariat : Clémentine Davin + sabine j. sil  
 13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  18h. 
