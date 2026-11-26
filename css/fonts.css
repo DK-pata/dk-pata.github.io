@@ -40,7 +40,7 @@ code {
 }
 @font-face {
   font-family: "DotGothic16";
-  src: url("/fonts/dotgothic16-latin-400-normal.woff2") format("woff2");
+  src: url("fonts/dotgothic16-latin-400-normal.woff2") format("woff2");
   font-weight: 400;
   font-display: swap;
 }
