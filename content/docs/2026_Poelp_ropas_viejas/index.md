@@ -5,9 +5,10 @@ tags:
     - poelp
     - news
     - 2026
+    - freewheel
 categories:
     - DK_WORK
-    - Freewheel
+    
 ---
 
 <div class="two-columns-css"> 
