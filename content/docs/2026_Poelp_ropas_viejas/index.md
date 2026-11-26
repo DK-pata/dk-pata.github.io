@@ -18,7 +18,7 @@ Jot Fau + Dialogist-Kantor
 commissariat : Clémentine Davin + sabine j. sil  
 13/11/26 > 13/12/26 – VERNISSAGE le 12/11/26  18h. 
 
-![FW16 poelp](fw16_poelp02.jpeg)  
+![FW16 poelp](FW16_poelp02.jpeg)  
 <sup>collaborative FW16 incl. Jot, Aly, Clementine, Antoine, sabine & DK</sup> 
 
 </div>
